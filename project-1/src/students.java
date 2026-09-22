@@ -10,7 +10,7 @@ public class students {
     public void displaydetails(){
         System.out.println("course name " +coursename);
         System.out.println("number of students" +numberofstudents);
-        System.out.println("total of students " +studentstotal);
+        System.out.println("total number of students " +studentstotal);
     }
 
 }

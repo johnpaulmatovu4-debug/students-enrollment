@@ -12,6 +12,8 @@ public class Main {
         obj2.displaydetails();
         System.out.println("Course C");
         obj3.displaydetails();
+        System.out.println("overall number of students " +overalltotalstudents);
+        System.out.println("average students per course " +averagestudents);
 
     }
 }
